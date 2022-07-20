@@ -21,7 +21,16 @@
   border-radius: 4px;
   display: flex;
   align-items: stretch;
-  height: 1.8em;
+  height: 6em;
+}
+
+img{
+  margin-left: 10px;
+  margin-right: 7px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border: 1px solid #000;
+  width:
 }
 
 .heroes button:hover {

@@ -1,20 +1,23 @@
 import { Hero } from './hero';
-
 export const HEROES: Hero[] = [
-  { id: 12, name: 'Dr. Nice' },
-  { id: 13, name: 'Bombasto' },
-  { id: 14, name: 'Celeritas' },
-  { id: 15, name: 'Magneta' },
-  { id: 16, name: 'RubberMan' },
-  { id: 17, name: 'Dynama' },
-  { id: 18, name: 'Dr. IQ' },
-  { id: 19, name: 'Magma' },
-  { id: 20, name: 'Tornado' }
+  {
+    id: 1,
+    name: 'Albin Weiß',
+    pic: 'https://campus.aau.at/vk/visitenkartenimage/image/-1097056940',
+  },
+  {
+    id: 2,
+    name: 'Christoph Riedl',
+    pic: 'https://campus.aau.at/vk/visitenkartenimage/image/-2029777298',
+  },
+  {
+    id: 3,
+    name: 'Christian Schuschnig',
+    pic: 'https://www.aau.at/wp-content/uploads/2021/07/41.png',
+  },
+  {
+    id: 4,
+    name: 'Lukas Pagitz',
+    pic: 'https://campus.aau.at/vk/visitenkartenimage/image/-788361951',
+  },
 ];
-
-
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
